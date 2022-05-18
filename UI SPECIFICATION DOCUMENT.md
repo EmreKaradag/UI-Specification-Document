@@ -3,7 +3,7 @@
   # UI SPECIFICATION DOCUMENT 
  
  For now primary color is decided as blue and font type is "Satero Sans Pro Light".
- 
+ Until the page is loaded, company icon should be on the screen along with loading indicator.
  
   ## UI Components
 
