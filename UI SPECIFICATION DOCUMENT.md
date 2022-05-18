@@ -7,11 +7,13 @@
  
   ## UI Components
 
-  ![ui template 2](https://user-images.githubusercontent.com/91535994/168990355-4b018142-7d99-45e6-816c-9ed383b98f7b.png)
-![ui template](https://user-images.githubusercontent.com/91535994/168990359-7010d65a-a5f8-47d8-8900-9d6a536858bd.png)
+
 
 
   ***
+  
+    ![ui template 2](https://user-images.githubusercontent.com/91535994/168990355-4b018142-7d99-45e6-816c-9ed383b98f7b.png)
+![ui template](https://user-images.githubusercontent.com/91535994/168990359-7010d65a-a5f8-47d8-8900-9d6a536858bd.png)
   
 - #### Admin Panel
  
